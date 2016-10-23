@@ -1,7 +1,7 @@
 # haskell-calculator
 A Haskell calculator, project for the [Functional Programming Course](http://www.cs.hku.hk/programme/course_info.jsp?infile=2014/comp3258.html "HKU COMP3258 Functional Programming") in HKU.<br>
 
-<img src="https://github.com/irsisyphus/pictures/raw/master/haskell-calculator/calculator.png" width = "862" height = "552" alt="calculator" align=center />
+<img src="https://github.com/irsisyphus/pictures/raw/master/haskell-calculator/calculator.png" width = "431" height = "276" alt="calculator" align=center />
 
 
 ### Development Platform
