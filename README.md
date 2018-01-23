@@ -3,8 +3,8 @@ A Haskell calculator, project for the [Functional Programming Course](http://www
 
 <img src="https://github.com/irsisyphus/pictures/raw/master/haskell-calculator/calculator.png" width = "431" height = "276" alt="calculator" align=center />
 
-### Notes
-* Do not copy contents of this repo for course assignments. You should take the responsibility for any form of plagiarism.
+### Note
+Do not copy contents of this repo for course assignments. You should take the responsibility for any form of plagiarism.
 
 ### Development Platform
  - macOS Sierra Version 10.12
